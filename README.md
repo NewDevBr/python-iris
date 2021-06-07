@@ -1,6 +1,6 @@
 <p  align="center">
 
- ![Badge](https://img.shields.io/static/v1?label=Language&message=python&color=blue&style=for-the-badge&logo=python) ![Badge](https://img.shields.io/static/v1?label=Code_editor&message=PyCharm&color=green&style=for-the-badge&logo=pycharm) ![Badge](https://img.shields.io/static/v1?label=BUILD&message=COMPLETED&color=green&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=Language&message=python&color=blue&style=for-the-badge&logo=python) ![Badge](https://img.shields.io/static/v1?label=Code_editor&message=PyCharm&color=green&style=for-the-badge&logo=pycharm) ![Badge](https://img.shields.io/static/v1?label=BUILD&message=IN_PROGRESS&color=yellow&style=for-the-badge)
 
 </p>
 
